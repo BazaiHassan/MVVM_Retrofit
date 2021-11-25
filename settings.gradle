@@ -1,0 +1,2 @@
+rootProject.name = "MVVM_Retrofit"
+include ':app'
